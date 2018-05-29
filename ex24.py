@@ -6,7 +6,7 @@ poem = """
 with logic so firmly planted
 cannot discern \n the needs of love
 nor comprehend passion from intuition
-and requres an explanation
+and requires an explanation
 \n\t\twhere there is none.
 """
 
